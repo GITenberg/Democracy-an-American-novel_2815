@@ -1,0 +1,51 @@
+_repo: Democracy-an-American-novel_2815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Henry
+    alias: Adams, Henry Brooks
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '798'
+    url: http://www.gutenberg.org/2009/agents/798
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Brooks_Adams
+description: "Democracy: An American Novel is a political novel written by Henry Brooks\
+  \ Adams and published anonymously in 1880. Only after the writer's death in 1918\
+  \ did his publisher reveal Adams's authorship although, upon publication, the novel\
+  \ had immediately become popular. Contemporaneous conjecture placed the book under\
+  \ the joint authorship of Clarence King, John Hay and Henry Adams and their spouses\
+  \ who lived side by side on H street in Washington, D.C. and were collectively sometimes\
+  \ called \"the Five of Hearts.\"\nIn January 2005, the Washington National Opera\
+  \ premiered Democracy: An American Comedy, an opera by Scott Wheeler and Romulus\
+  \ Linney based upon Henry Adams' book.\nDemocracy is a novel about political power,\
+  \ its acquisition, use and abuse. It is set at the beginning of a new administration,\
+  \ with the election campaign just over and the new President of the United States\
+  \ just having been elected. However, all the characters depicted are entirely fictitious.\
+  \ The new president's Christian name is Jacob, while his full name is never revealed.\
+  \ In a 1961 foreword to the novel, Henry D. Aiken states that the U.S. president\
+  \ of the novel \"bears some resemblance to Andrew Johnson, to Garfield, and to Grant\"\
+  . Dates are never mentioned either, but internal evidence (at one point a 25-year-old\
+  \ woman says that she was \"almost an infant\" during the Civil War) suggests it\
+  \ is set in the late 1870s.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2815'
+  wikidata: Q5255475
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Socialites -- Fiction'
+- GITenberg
+title: Democracy, an American novel
+url: http://www.gutenberg.org/ebooks/2815
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9:_%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9
+- https://en.wikipedia.org/wiki/Democracy:_An_American_Novel
