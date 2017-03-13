@@ -1,5 +1,8 @@
 _repo: Democracy-an-American-novel_2815
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Henry
@@ -27,6 +30,8 @@ description: "Democracy: An American Novel is a political novel written by Henry
   . Dates are never mentioned either, but internal evidence (at one point a 25-year-old\
   \ woman says that she was \"almost an infant\" during the Civil War) suggests it\
   \ is set in the late 1870s.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2815#Democracy-an-American-novel
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
